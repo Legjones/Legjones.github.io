@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: false
+  image: placeholderprofile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Rawles Hall 233</p>
