@@ -6,10 +6,10 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: false
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Swain East 120</p>
+    <p>Rawles Hall 233</p>
     <p>Indiana University Bloomington Math Department</p>
     <p>Bloomington, IN 47405</p>
 
@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Legrand Jones II, a current graduate student in math under Professor Ayelet Lindenstrauss at Indiana University. I am particularly interested in algebraic topology, techniques/ideas related to homological algebra, and (very broadly) category theory. Also a big fan of physical and digital games! 
+I am Legrand Jones II, a current graduate student in math under Professor Ayelet Lindenstrauss at Indiana University. I am particularly interested in algebraic topology, techniques/ideas related to homological algebra, and (very broadly) category theory. I've more recently become interested in some formalization, including some homotopy type theory.
 
-Slightly more specifically my current focus is on THH, Hochschild Homology, and the like.
+Slightly more specifically my current focus is on THH, Hochschild Homology, and the like from a computational perspective.
+
+I care about caring about things and generally hold earnestness as the goal. It is also important to me that, when math is shared, there is a real attempt to do it in a way that prioritizes understanding and not causing harm. Also a big fan of physical and digital games! 
