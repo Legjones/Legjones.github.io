@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: "You are not brought upon this world to 'get it'!" - Lo Pan
+title: You are not brought upon this world to 'get it'! - Lo Pan
 nav: true
 nav_order: 5
 pagination:
